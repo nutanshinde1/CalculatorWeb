@@ -4,6 +4,7 @@ function appendValue(value) {
     display.value += value;
 }
 
+
 function clearDisplay() {
     display.value = "";
 }
